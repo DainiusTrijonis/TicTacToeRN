@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1574017981417" clover="3.2.0">
+  <project timestamp="1574017981418" name="All files">
+    <metrics statements="137" coveredstatements="50" conditionals="34" coveredconditionals="20" methods="72" coveredmethods="9" elements="243" coveredelements="79" complexity="0" loc="137" ncloc="137" packages="1" files="3" classes="3"/>
+    <file name="App.js" path="/root/ReactNativeApps/TicTacToeRN/App.js">
+      <metrics statements="134" coveredstatements="50" conditionals="34" coveredconditionals="20" methods="70" coveredmethods="9"/>
+      <line num="10" count="6" type="stmt"/>
+      <line num="12" count="6" type="stmt"/>
+      <line num="25" count="6" type="stmt"/>
+      <line num="26" count="10" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="42" count="7" type="stmt"/>
+      <line num="43" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="45" count="3" type="stmt"/>
+      <line num="47" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="49" count="4" type="stmt"/>
+      <line num="53" count="0" type="stmt"/>
+      <line num="58" count="6" type="stmt"/>
+      <line num="62" count="6" type="stmt"/>
+      <line num="63" count="7" type="stmt"/>
+      <line num="64" count="7" type="stmt"/>
+      <line num="68" count="6" type="stmt"/>
+      <line num="69" count="3" type="stmt"/>
+      <line num="70" count="3" type="stmt"/>
+      <line num="73" count="6" type="stmt"/>
+      <line num="75" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="77" count="0" type="stmt"/>
+      <line num="80" count="0" type="stmt"/>
+      <line num="81" count="0" type="stmt"/>
+      <line num="82" count="0" type="stmt"/>
+      <line num="85" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="86" count="0" type="stmt"/>
+      <line num="89" count="0" type="stmt"/>
+      <line num="90" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="92" count="0" type="stmt"/>
+      <line num="93" count="0" type="stmt"/>
+      <line num="95" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="97" count="0" type="stmt"/>
+      <line num="98" count="0" type="stmt"/>
+      <line num="103" count="6" type="stmt"/>
+      <line num="104" count="18" type="stmt"/>
+      <line num="105" count="18" type="stmt"/>
+      <line num="107" count="18" type="stmt"/>
+      <line num="110" count="18" type="stmt"/>
+      <line num="112" count="54" type="stmt"/>
+      <line num="113" count="54" type="stmt"/>
+      <line num="115" count="224" type="stmt"/>
+      <line num="117" count="54" type="cond" truecount="2" falsecount="0"/>
+      <line num="118" count="51" type="cond" truecount="2" falsecount="0"/>
+      <line num="124" count="12" type="stmt"/>
+      <line num="126" count="30" type="stmt"/>
+      <line num="127" count="30" type="stmt"/>
+      <line num="129" count="124" type="stmt"/>
+      <line num="131" count="30" type="cond" truecount="2" falsecount="0"/>
+      <line num="132" count="27" type="cond" truecount="2" falsecount="0"/>
+      <line num="137" count="6" type="stmt"/>
+      <line num="138" count="6" type="stmt"/>
+      <line num="140" count="24" type="stmt"/>
+      <line num="142" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="143" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="145" count="0" type="stmt"/>
+      <line num="146" count="0" type="stmt"/>
+      <line num="147" count="0" type="stmt"/>
+      <line num="150" count="0" type="stmt"/>
+      <line num="151" count="0" type="stmt"/>
+      <line num="154" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="155" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="160" count="6" type="stmt"/>
+      <line num="161" count="476" type="stmt"/>
+      <line num="162" count="476" type="cond" truecount="3" falsecount="0"/>
+      <line num="164" count="39" type="stmt"/>
+      <line num="165" count="36" type="stmt"/>
+      <line num="166" count="401" type="stmt"/>
+      <line num="170" count="35" type="stmt"/>
+      <line num="171" count="35" type="cond" truecount="3" falsecount="0"/>
+      <line num="173" count="21" type="stmt"/>
+      <line num="175" count="0" type="stmt"/>
+      <line num="176" count="0" type="stmt"/>
+      <line num="178" count="0" type="stmt"/>
+      <line num="182" count="0" type="stmt"/>
+      <line num="186" count="0" type="stmt"/>
+      <line num="193" count="0" type="stmt"/>
+      <line num="196" count="0" type="stmt"/>
+      <line num="199" count="0" type="stmt"/>
+      <line num="204" count="0" type="stmt"/>
+      <line num="207" count="0" type="stmt"/>
+      <line num="210" count="0" type="stmt"/>
+      <line num="215" count="0" type="stmt"/>
+      <line num="219" count="7" type="stmt"/>
+      <line num="221" count="0" type="stmt"/>
+      <line num="222" count="0" type="stmt"/>
+      <line num="224" count="0" type="stmt"/>
+      <line num="228" count="0" type="stmt"/>
+      <line num="232" count="0" type="stmt"/>
+      <line num="235" count="0" type="stmt"/>
+      <line num="242" count="0" type="stmt"/>
+      <line num="245" count="0" type="stmt"/>
+      <line num="248" count="0" type="stmt"/>
+      <line num="251" count="0" type="stmt"/>
+      <line num="256" count="0" type="stmt"/>
+      <line num="259" count="0" type="stmt"/>
+      <line num="262" count="0" type="stmt"/>
+      <line num="265" count="0" type="stmt"/>
+      <line num="270" count="0" type="stmt"/>
+      <line num="273" count="0" type="stmt"/>
+      <line num="276" count="0" type="stmt"/>
+      <line num="279" count="0" type="stmt"/>
+      <line num="284" count="0" type="stmt"/>
+      <line num="289" count="7" type="stmt"/>
+      <line num="291" count="0" type="stmt"/>
+      <line num="292" count="0" type="stmt"/>
+      <line num="294" count="0" type="stmt"/>
+      <line num="297" count="0" type="stmt"/>
+      <line num="300" count="0" type="stmt"/>
+      <line num="303" count="0" type="stmt"/>
+      <line num="306" count="0" type="stmt"/>
+      <line num="313" count="0" type="stmt"/>
+      <line num="316" count="0" type="stmt"/>
+      <line num="319" count="0" type="stmt"/>
+      <line num="322" count="0" type="stmt"/>
+      <line num="325" count="0" type="stmt"/>
+      <line num="330" count="0" type="stmt"/>
+      <line num="333" count="0" type="stmt"/>
+      <line num="336" count="0" type="stmt"/>
+      <line num="339" count="0" type="stmt"/>
+      <line num="342" count="0" type="stmt"/>
+      <line num="347" count="0" type="stmt"/>
+      <line num="350" count="0" type="stmt"/>
+      <line num="353" count="0" type="stmt"/>
+      <line num="356" count="0" type="stmt"/>
+      <line num="359" count="0" type="stmt"/>
+      <line num="364" count="0" type="stmt"/>
+      <line num="367" count="0" type="stmt"/>
+      <line num="370" count="0" type="stmt"/>
+      <line num="373" count="0" type="stmt"/>
+      <line num="376" count="0" type="stmt"/>
+      <line num="381" count="0" type="stmt"/>
+      <line num="388" count="0" type="stmt"/>
+      <line num="393" count="1" type="stmt"/>
+    </file>
+    <file name="index.js" path="/root/ReactNativeApps/TicTacToeRN/index.js">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="9" count="0" type="stmt"/>
+    </file>
+    <file name="metro.config.js" path="/root/ReactNativeApps/TicTacToeRN/metro.config.js">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>

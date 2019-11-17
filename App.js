@@ -44,9 +44,13 @@ export default class App extends Component {
     {
       return 1;
     }
-    else
+    else if ( randomNumber < 5 )
     {
       return -1;
+    }
+    else 
+    {
+      return 0;
     }
 
   }
@@ -72,7 +76,7 @@ export default class App extends Component {
 
     var currentPlayer = this.state.currentPlayer;
 
-    // Set the corret tile
+    // Set the correct tile
     var arr = this.state.gameState.slice();
     arr[row][col] =currentPlayer;
     this.setState({gameState:arr});
@@ -381,7 +385,7 @@ export default class App extends Component {
 
     }
 
-    return <View><Button title = "Failed rendering "/></View>;
+    return null;
 
   }
 }
